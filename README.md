@@ -5,9 +5,9 @@
 Репозиторий содержит мои решения задач с LeetCode по SQL, разделенные по уровню сложности.
 
 ## Категории сложности
-- **Easy**: Простые задачи, подходящие для начинающих.
-- **Medium**: Задачи средней сложности, требующие хороших знаний SQL.
-- **Hard**: Сложные задачи для опытных пользователей.
+- [**Easy**](https://github.com/InventorDreamer/LeetCode_SQL/tree/main/EASY_LEVEL): Простые задачи, подходящие для начинающих.
+- [**Medium**](https://github.com/InventorDreamer/LeetCode_SQL/tree/main/MEDIUM_LEVEL): Задачи средней сложности, требующие хороших знаний SQL.
+- [**Hard**](https://github.com/InventorDreamer/LeetCode_SQL/tree/main/HARD_LEVEL): Сложные задачи для опытных пользователей.
 
 ## Как использовать
 Каждое решение сохранено в отдельном `.sql` файле с описанием задачи. 
