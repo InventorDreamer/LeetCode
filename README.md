@@ -13,7 +13,7 @@
 
 ## 🖥 Algorithm Solutions (Python & Java)
 
-<img src="https://github.com/user-attachments/assets/e10704a6-1c45-42e4-812e-dcf610b7a0ef" alt="3195640" width="500"/>
+<img src="https://github.com/user-attachments/assets/e10704a6-1c45-42e4-812e-dcf610b7a0ef" alt="3195640" width="400"/>
 
 
 В этом разделе собраны мои реализации алгоритмов на **Python** и **Java**.
