@@ -13,7 +13,7 @@
 
 ## 🖥 Algorithm Solutions (Python & Java)
 
-<img src="https://github.com/user-attachments/assets/3d33a9ee-49c9-4b1a-9950-612f359da28e" alt="Algoritmy-i-struktury-dannyh" width="500"/>
+<img src="https://github.com/user-attachments/assets/296825c3-5de5-47f8-a6c8-999be0827aea" alt="1000_F_207934815_9SAvVsstsRsLte4WZJf5Z1d9j2DSdM8c" width="500"/>
 
 
 В этом разделе собраны мои реализации алгоритмов на **Python** и **Java**.
