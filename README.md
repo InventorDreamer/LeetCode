@@ -1,4 +1,4 @@
- 🚀 Algorithm and SQL Solutions Repository
+# 🚀 Algorithm and SQL Solutions Repository
 
 Добро пожаловать в мой репозиторий решений задач по алгоритмам и SQL! Здесь вы найдете мои реализации алгоритмов на **Python** и **Java**, а также решения задач по **SQL**.
 
