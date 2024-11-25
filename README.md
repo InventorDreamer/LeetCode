@@ -27,7 +27,7 @@
 
 ---
 
-## 🛢 SQL Solutions
+## 🔑 SQL Solutions
 
 ![SQL Logo](https://github.com/user-attachments/assets/d39db275-889a-4aca-b556-172e1cae5ed6)
 
