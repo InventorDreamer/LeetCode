@@ -13,7 +13,8 @@
 
 ## 🖥 Algorithm Solutions (Python & Java)
 
-![Coding Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Code_icon.svg)
+![Algoritmy-i-struktury-dannyh](https://github.com/user-attachments/assets/3d33a9ee-49c9-4b1a-9950-612f359da28e)
+
 
 В этом разделе собраны мои реализации алгоритмов на **Python** и **Java**.  
 **Особенности:**
