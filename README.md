@@ -6,7 +6,7 @@
 
 ## 📂 Содержание
 
-- [Algorithm Solutions (Python & Java)](#Algorithms)
+- [Algorithm Solutions (Python & Java)](https://github.com/InventorDreamer/LeetCode/tree/main/Algorithms)
 - [SQL Solutions](https://github.com/InventorDreamer/LeetCode/tree/main/SQL)
 
 ---
