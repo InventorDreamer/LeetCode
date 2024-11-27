@@ -19,7 +19,7 @@
 В этом разделе собраны мои реализации алгоритмов на **Python** и **Java**.
 
 ### 🔗 Секции:
-- [**Basic Algorithms**](./Algorithms/Basic): Простые задачи и базовые алгоритмы.
+- [**Basic Algorithms**](https://github.com/InventorDreamer/LeetCode/tree/main/Algorithms/Basic%20Algorithms): Простые задачи и базовые алгоритмы.
 - [**Data Structures**](./Algorithms/DataStructures): Реализации и использование структур данных.
 - [**Advanced Algorithms**](https://github.com/InventorDreamer/LeetCode/tree/main/Algorithms/Advanced%20Algorithms): Алгоритмы динамического программирования, работы с графами и другие сложные задачи.
 
